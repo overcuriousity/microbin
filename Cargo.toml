@@ -23,7 +23,7 @@ chrono = "0.4.19"
 rand = "0.8.5"
 linkify = "0.8.1"
 clap = { version = "3.1.12", features = ["derive", "env"] }
-actix-multipart = "0.4.0"
+actix-multipart = "0.6.1"
 futures = "0.3"
 sanitize-filename = "0.3.0"
 log = "0.4"
